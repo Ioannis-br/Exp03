@@ -21,5 +21,31 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Orszaggyules", 
+		"uniqueTo": "Austria-Hungary",
+		"Cost": 300,
+		"production": 3,
+		"science": 3,
+		"gold": 3
+		"Culture": 1
+		"CityStrength": 2,
+		"requiredTech": "Mathematics",
+		"uniques": [
+			"[+10]% Production when constructing [All] buildings [in this city]",
+			"Indicates the capital city",
+			"Limited to [2] per Civilization"
+	},
+	{
+		"name": "Coffee House",
+		"replaces": "Windmill",
+		"uniqueTo": "Austria-Hungary",
+		"Cost": 400,
+		"Production": 4,
+		"maintenance": 2,
+		"requiredTech": "Economics",
+		"uniques": [
+			"[+5]% production"]
 	}
 ]
