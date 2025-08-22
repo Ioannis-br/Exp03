@@ -13,5 +13,28 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Huszar",
+		"unitType": "Mounted",
+		"uniqueTo": "Austria-Hungary",
+		"replaces": "Cavalry",
+		"movement": 5,
+		"strength": 35,
+		"cost": 700,
+		"requiredTech:" "Military Science",
+		"requiredResource": "Horses",
+		"promotions": "Hussar ability"
+	},
+	{
+		"name": "Bosniaken",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Austria-Hungary",
+		"replaces": "Great War Infantary",
+		"movement": 2,
+		"strength": 52,
+		"cost": 900,
+		"requiredTech": "Replaceable Parts",
+		"promotions": "Scouting I"
 	}
 ]
