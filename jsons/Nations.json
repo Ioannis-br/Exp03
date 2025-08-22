@@ -34,5 +34,48 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name": "Austria-Hungary",
+		"leaderName": "Franz Joseph",
+		"adjective": ["Austro-Hungarian"],
+		"startBias": ["River","Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "From the Alps to the Carpathians, From Bohemia to Bosnia",
+		"startIntroPart2": "Can Europe's most multicultural empire survive the tensions of these times?",
+		
+		"declaringWar": "For the honor of the two crowns you must be stopped!",
+		"attacked": "Poor fool, do you think these violations will go unpunished?!",
+		"defeated": "Barbarism had more power! Our empire was ruined!",
+		"introduction": "Hallo!, What brings to Austria,-Hungary, Friend...?",
+		
+		"neutralHello": "Hallo!",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [0,107,71],
+		"innerColor": [241,15,31],
+		"uniqueName": "Danubian Monarchy",
+		"uniques": [
+			"Comment [Provides a [Palace] in your first [2] cities for free (Your second city also becomes a capital)]", "Provides a [Palace] in your first [2] cities for free <hidden from users>",
+			"[+1 Production, +1 Culture] from every [Castle]",
+			"[+1 Production, +1 Culture] from every [Arsenal]",
+			"[+1 Production] from [{improved} {River}] tiles [in all cities]",
+			"[Gold] cost of purchasing [Mounted] units [-20]%",
+			"[-25]% constrution time for [All] improvments <in [River] tiles>"],
+		"cities": ["Vienna","Budapest","Salzburg","Debrecen","Trieste","Bratislava","Prague","Laibach","Agram",
+			"Klausenburg","Temesvar","Szeged","Kaschau","Lemberg","Czernowitz","Krakow","Ostrava","Sarajevo","Zara",
+			"Maria-Theresiopel","Ragusa","Miskolc","Trent","Pilsen","Graz","Innsbruck","Linz","Bistrita","Ungvar",
+			"Brassó","Bozen","Lugosi","Austerlitz","Kattowitz","Bregenz"]
 	}
 ]
