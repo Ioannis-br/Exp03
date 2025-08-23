@@ -63,8 +63,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [0,107,71],
-		"innerColor": [241,15,31],
+		"outerColor": [241,15,31],
+		"innerColor": [51,89,46],
 		"uniqueName": "Danubian Monarchy",
 		"uniques": [
 			"Comment [Provides a [Palace] in your first [2] cities for free (Your second city also becomes a capital)]", "Provides a [Palace] in your first [2] cities for free <hidden from users>",
