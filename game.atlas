@@ -25,6 +25,13 @@ NationIcons/Aliens
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/34 Sem Título_20250823135501.png
+  rotate: false
+  xy: 4, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Phasers
   rotate: false
   xy: 328, 4
