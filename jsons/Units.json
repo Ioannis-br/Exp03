@@ -1,13 +1,14 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
+		"name": "Huszar",
+		"unitType": "Mounted",
+		"uniqueTo": "Austria-Hungary",
+		"replaces": "Cavalry",
+		"movement": 5,
+		"strength": 35,
+		"cost": 700,
+		"requiredTech:" "Military Science",
+		"requiredResource": "Horses",
+		"promotions": "Hussar ability"
 	}
 ]
