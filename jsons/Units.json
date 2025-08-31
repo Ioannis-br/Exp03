@@ -1,14 +1,1 @@
-[
-	{
-		"name": "Huszar",
-		"unitType": "Mounted",
-		"uniqueTo": "Austria-Hungary",
-		"replaces": "Cavalry",
-		"movement": 5,
-		"strength": 35,
-		"cost": 700,
-		"requiredTech:" "Military Science",
-		"requiredResource": "Horses",
-		"promotions": "Hussar ability"
-	}
-]
+
