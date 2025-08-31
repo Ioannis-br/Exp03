@@ -39,10 +39,3 @@ UnitIcons/Phasers
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Huszar
-  rotate: false
-  xy: 1044, 628
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
